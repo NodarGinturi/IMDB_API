@@ -1,0 +1,11 @@
+C:\Users\nginturi\source\repos\API\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\nginturi\source\repos\API\Common\bin\Debug\net5.0\Common.dll
+C:\Users\nginturi\source\repos\API\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\nginturi\source\repos\API\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\nginturi\source\repos\API\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nginturi\source\repos\API\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\nginturi\source\repos\API\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\nginturi\source\repos\API\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\nginturi\source\repos\API\Common\obj\Debug\net5.0\Common.dll
+C:\Users\nginturi\source\repos\API\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\nginturi\source\repos\API\Common\obj\Debug\net5.0\Common.pdb

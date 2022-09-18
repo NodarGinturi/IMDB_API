@@ -1,0 +1,11 @@
+C:\Users\nginturi\source\repos\API\Comon\bin\Debug\net5.0\Comon.deps.json
+C:\Users\nginturi\source\repos\API\Comon\bin\Debug\net5.0\Comon.dll
+C:\Users\nginturi\source\repos\API\Comon\bin\Debug\net5.0\ref\Comon.dll
+C:\Users\nginturi\source\repos\API\Comon\bin\Debug\net5.0\Comon.pdb
+C:\Users\nginturi\source\repos\API\Comon\obj\Debug\net5.0\Comon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nginturi\source\repos\API\Comon\obj\Debug\net5.0\Comon.AssemblyInfoInputs.cache
+C:\Users\nginturi\source\repos\API\Comon\obj\Debug\net5.0\Comon.AssemblyInfo.cs
+C:\Users\nginturi\source\repos\API\Comon\obj\Debug\net5.0\Comon.csproj.CoreCompileInputs.cache
+C:\Users\nginturi\source\repos\API\Comon\obj\Debug\net5.0\Comon.dll
+C:\Users\nginturi\source\repos\API\Comon\obj\Debug\net5.0\ref\Comon.dll
+C:\Users\nginturi\source\repos\API\Comon\obj\Debug\net5.0\Comon.pdb

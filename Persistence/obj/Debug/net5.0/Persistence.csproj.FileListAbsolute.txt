@@ -1,0 +1,17 @@
+C:\Users\nginturi\source\repos\API\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\nginturi\source\repos\API\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\nginturi\source\repos\API\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\nginturi\source\repos\API\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\nginturi\source\repos\API\Persistence\bin\Debug\net5.0\Application.dll
+C:\Users\nginturi\source\repos\API\Persistence\bin\Debug\net5.0\Domain.dll
+C:\Users\nginturi\source\repos\API\Persistence\bin\Debug\net5.0\Application.pdb
+C:\Users\nginturi\source\repos\API\Persistence\bin\Debug\net5.0\Domain.pdb
+C:\Users\nginturi\source\repos\API\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\nginturi\source\repos\API\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nginturi\source\repos\API\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\nginturi\source\repos\API\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\nginturi\source\repos\API\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\nginturi\source\repos\API\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+C:\Users\nginturi\source\repos\API\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\nginturi\source\repos\API\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\nginturi\source\repos\API\Persistence\obj\Debug\net5.0\Persistence.pdb
